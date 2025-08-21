@@ -1,8 +1,7 @@
-## Hello there, I am Ofek Livne👋
+## Hello there, I'm Ofek Livne👋
 
+I'm a passionate Software Engineer and a graduate of Practical Software Engineering. Experienced in Python, algorithm design, and backend architecture, with a focus on real-time, resilient systems. I enjoy solving complex problems with creativity, critical thinking, and long-term vision.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofek-livne) 
 
 # 💻 Tech Stack:
 
@@ -43,3 +42,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofek-livne) 
