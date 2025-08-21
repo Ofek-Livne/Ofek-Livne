@@ -3,7 +3,7 @@
 I'm a passionate Software Engineer and a graduate of Practical Software Engineering. Experienced in Python, algorithm design, and backend architecture, with a focus on real-time, resilient systems. I enjoy solving complex problems with creativity, critical thinking, and long-term vision.
 
 
-# 💻 Tech Stack:
+# 🚀 Languages and Tools I Use:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<!-- -->
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,5 +43,5 @@ I'm a passionate Software Engineer and a graduate of Practical Software Engineer
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🌐 Socials:
+## 🌐 Where to contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofek-livne) 
